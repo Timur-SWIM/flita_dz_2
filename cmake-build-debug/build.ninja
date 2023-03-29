@@ -49,12 +49,14 @@ build cmake_object_order_depends_target_dz_2: phony || CMakeFiles/dz_2.dir
 build CMakeFiles/dz_2.dir/main.c.o: C_COMPILER__dz_2_Debug /Users/mac/Desktop/Project/C/flita/dz_2/main.c || cmake_object_order_depends_target_dz_2
   DEP_FILE = CMakeFiles/dz_2.dir/main.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -std=gnu11
+  INCLUDES = -I/Users/mac/Desktop/Project/C/flita/dz_2/.
   OBJECT_DIR = CMakeFiles/dz_2.dir
   OBJECT_FILE_DIR = CMakeFiles/dz_2.dir
 
 build CMakeFiles/dz_2.dir/deblank.c.o: C_COMPILER__dz_2_Debug /Users/mac/Desktop/Project/C/flita/dz_2/deblank.c || cmake_object_order_depends_target_dz_2
   DEP_FILE = CMakeFiles/dz_2.dir/deblank.c.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -std=gnu11
+  INCLUDES = -I/Users/mac/Desktop/Project/C/flita/dz_2/.
   OBJECT_DIR = CMakeFiles/dz_2.dir
   OBJECT_FILE_DIR = CMakeFiles/dz_2.dir
 

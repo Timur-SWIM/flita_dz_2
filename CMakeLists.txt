@@ -3,4 +3,8 @@ project(dz_2 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(dz_2 main.c deblank.h main.h deblank.c deblank.c)
+include_directories(.)
+
+add_executable(dz_2
+        main.c
+        main.h deblank.c)
